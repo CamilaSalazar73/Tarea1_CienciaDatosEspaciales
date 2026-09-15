@@ -12,4 +12,4 @@ En este trabajo se analiza la distribución espacial de la variable **MOBILES** 
 
 ## Enlace al Colab
 
-[Colab de la Tarea 1](.)
+[Colab de la Tarea 1](https://colab.research.google.com/drive/1w7IxvrOBc7iEKJswFS-xFf4LCBjh83KX?usp=sharing)
